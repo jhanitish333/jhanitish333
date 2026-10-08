@@ -29,6 +29,6 @@ I build scalable software solutions and explore LLM-driven applications, agentic
 
 ### Connect With Me
 
-- **LinkedIn:** (www.linkedin.com/in/nitish-jha-10388116)
-- **Blog:** (https://medium.com/@jha.nitish333)
-- **Email:** (mailto:jha.nitish333@gmail.com)
+- **LinkedIn:** [Nitish Jha](https://www.linkedin.com/in/nitish-jha-10388116)
+- **Blog:** [Medium Articles](https://medium.com/@jha.nitish333)
+- **Email:** [jha.nitish333@gmail.com](mailto:jha.nitish333@gmail.com)
